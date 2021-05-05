@@ -177,7 +177,7 @@ void MainWindow::on_actionRedo_triggered()
 //Autocomplete
 void MainWindow::on_textEdit_textChanged()
 {
-    QFile wordlist("/home/david/c++/INTELLIpad/deutsch.txt");
+    QFile wordlist("/home/david/c++/INTELLIpad/usa2.txt");
     QTextBrowser* boxes[4] =
     {
      ui->textBrowser, ui->textBrowser_2, ui->textBrowser_3, ui->textBrowser_4
