@@ -1,8 +1,0 @@
-<RCC>
-    <qresource lang="English" prefix="/new/prefix1">
-        <file>usa2.txt</file>
-    </qresource>
-    <qresource lang="German" prefix="/new/prefix1">
-        <file>deutsch.txt</file>
-    </qresource>
-</RCC>
