@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/dicEnglish">
-        <file>usa2.txt</file>
-    </qresource>
-    <qresource prefix="/dicGerman">
-        <file>german.txt</file>
-    </qresource>
-</RCC>
