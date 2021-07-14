@@ -6,3 +6,8 @@ To set it up correctly please use the installer
 ``
 sudo chmod +x installer.sh
 ``
+
+to execute it use 
+``
+./installer.sh
+``
