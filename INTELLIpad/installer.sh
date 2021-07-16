@@ -8,7 +8,7 @@ mkdir ~/.INTELLIpad
 cd ~/.INTELLIpad
 touch activeDic
 echo .INTELLIpad/usa2.txt > ~/.INTELLIpad/activeDic
-cd origin
+cd $origin
 mv *.txt ~/.INTELLIpad
 
 sudo chmod +x INTELLIpad
